@@ -1,0 +1,20 @@
+
+==========================================================
+FINAL TEST SET RESULTS (Optimal Threshold = 1.8e-05)
+==========================================================
+  Overall Accuracy   :  95.62%   (threshold >= 80%)   ✅
+  F1 Score           :  95.79%   (threshold >= 80%)   ✅
+  EER                :   4.86%   (threshold <= 12%)   ✅
+  Genuine  Accuracy  :  93.82%   (threshold >= 75%)   ✅
+  Deepfake Accuracy  :  97.34%   (threshold >= 75%)   ✅
+==========================================================
+
+              precision    recall  f1-score   support
+
+     Genuine       0.97      0.94      0.95      2264
+    Deepfake       0.94      0.97      0.96      2370
+
+    accuracy                           0.96      4634
+   macro avg       0.96      0.96      0.96      4634
+weighted avg       0.96      0.96      0.96      4634
+
