@@ -112,7 +112,7 @@ Then open **http://localhost:8501** in your browser.
 
 ## 🌐 Hosted Web App
 
-The app is live at: **[your-app-url.streamlit.app](https://your-app-url.streamlit.app)**
+The app is live at: **((https://deepfakeaudiodetector-7k9abbvhwcp26xevh5w9vu.streamlit.app/))**
 
 Upload any `.wav`, `.mp3`, `.flac`, or `.ogg` file and get an instant prediction with:
 - Genuine / Deepfake label
