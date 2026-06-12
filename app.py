@@ -234,7 +234,7 @@ def process_audio(file_bytes: bytes):
         tmp_path = tmp.name
 
     try:
-      audio, sr = librosa.load(
+        audio, sr = librosa.load(
             tmp_path,
             sr=None,
             mono=True
