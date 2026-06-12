@@ -2,7 +2,7 @@
 
 A deep learning system that classifies speech recordings as **Genuine (Human)** or **Deepfake (AI-Generated)** using a CNN + Transformer hybrid architecture trained on the Fake-or-Real dataset.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://deepfakeaudiodetector-7k9abbvhwcp26xevh5w9vu.streamlit.app/)
 
 ---
 
