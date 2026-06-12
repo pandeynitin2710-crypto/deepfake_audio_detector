@@ -239,7 +239,6 @@ def process_audio(file_bytes: bytes):
             sr=None,
             mono=True
         )
-
         wav = torch.tensor(audio, dtype=torch.float32).unsqueeze(0)
     finally:
         os.unlink(tmp_path)
